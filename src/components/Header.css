@@ -1,0 +1,34 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 7px 20px;
+}
+
+.nav-links ul {
+    list-style: none; 
+    display: flex;
+    gap: 20px; 
+    margin: 0;
+    padding: 0;
+}
+ 
+.nav-links a {
+font-family: Montserrat;
+font-size: 20px;
+font-weight: 700;
+text-decoration: none;
+color:#000000;
+;
+}
+
+.signup{
+    background-color: #610163;
+    padding: 15px;
+    border-radius: 40px;
+    color: white;
+}
+
+.nav-links a span{
+    color: white;
+}
